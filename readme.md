@@ -12,6 +12,11 @@ The permanent-magnet synchronous machine (PMSM) drive is one of the best choices
 
 The task is to design a model with appropriate feature engineering that estimates the target temperature of a rotor In this project,we will be using algorithms such as Linear Regression, Decision Tree, Random forest and SVM. We will train and test the data with these algorithms and select the best model. Best algorithm will be selected and saved in pkl format. We will be doing flask integration.
 
+[Electric Motor Temperature Dataset][dataset]
+
+[dataset]: https://www.kaggle.com/wkirgsn/electric-motor-temperature
+
+
 **Author:** Nagarkoti Rishabh
 
 **College:** S. N. Patel Institute Of Technology, Bardoli
